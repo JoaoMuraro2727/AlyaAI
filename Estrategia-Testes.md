@@ -1,6 +1,6 @@
 # Documento de Estratégia de Testes - Projeto ALYA
 
-## 📌 1. Funcionalidade: Cadastro de Usuário
+##  1. Funcionalidade: Cadastro de Usuário
 
 ### Regras de Negócio:
 
@@ -24,7 +24,7 @@
 
 \---
 
-## 📌 2. Funcionalidade: Login de Usuário
+## 2. Funcionalidade: Login de Usuário
 
 ### Regras de Negócio:
 
@@ -48,7 +48,7 @@
 
 \---
 
-## 📌 3. Funcionalidade: Consulta de Dados
+##  3. Funcionalidade: Consulta de Dados
 
 ### Regras de Negócio:
 
