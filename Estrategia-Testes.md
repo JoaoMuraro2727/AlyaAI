@@ -1,4 +1,4 @@
-# Documento de Estratégia de Testes - Projeto ALYA
+# Documento de Estratégia de Testes - ALYA AI
 
 ##  1. Funcionalidade: Cadastro de Usuário
 
