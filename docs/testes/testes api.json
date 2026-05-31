@@ -1,0 +1,39 @@
+[
+  {
+    "v": 12,
+    "name": "Alya teste",
+    "folders": [],
+    "requests": [
+      {
+        "v": "17",
+        "endpoint": "http://localhost:3000/chat",
+        "name": "Teste 1",
+        "params": [],
+        "headers": [],
+        "method": "POST",
+        "auth": {
+          "authType": "inherit",
+          "authActive": true
+        },
+        "preRequestScript": "",
+        "testScript": "",
+        "body": {
+          "contentType": "application/json",
+          "body": "{\n  \"message\": \"Estou triste\"\n}"
+        },
+        "requestVariables": [],
+        "responses": {},
+        "description": null
+      }
+    ],
+    "headers": [],
+    "auth": {
+      "authType": "none",
+      "authActive": true
+    },
+    "variables": [],
+    "description": "",
+    "preRequestScript": "",
+    "testScript": ""
+  }
+]
